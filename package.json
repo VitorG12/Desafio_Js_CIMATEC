@@ -1,0 +1,19 @@
+{
+  "name": "com.docker.desafiojs.senai",
+  "version": "1.0.0",
+  "description": "Desafio de Javascript do CIMATEC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorG12/Desafio_Js_CIMATEC.git"
+  },
+  "author": "Vitor Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorG12/Desafio_Js_CIMATEC/issues"
+  },
+  "homepage": "https://github.com/VitorG12/Desafio_Js_CIMATEC#readme"
+}
